@@ -4,3 +4,8 @@ description: Versioned agent skills, agents, and rules distributed via OpenPacka
 keywords: [skills, agents, rules, claude]
 author: dev.claude@jeffreyleung.com
 license: MIT
+dependencies:
+  - name: mattpocock-skills
+    url: https://github.com/mattpocock/skills.git#v1.2.3
+  - name: ponytail
+    url: https://github.com/DietrichGebert/ponytail.git#v4.9.0
