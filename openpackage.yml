@@ -1,4 +1,4 @@
-name: openpackage-skills
+name: agent-workflow
 version: 0.1.0
 description: Versioned agent skills, agents, and rules distributed via OpenPackage
 keywords: [skills, agents, rules, claude]

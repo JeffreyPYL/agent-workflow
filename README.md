@@ -1,4 +1,4 @@
-# openpackage-skills
+# agent-workflow
 
 Versioned agent skills, agents, and rules distributed via [OpenPackage](https://github.com/enulus/OpenPackage).
 
@@ -23,5 +23,5 @@ npx opkg set --ver <version>
 Install this package into a workspace:
 
 ```bash
-npx opkg install gh@JeffreyPYL/openpackage-skills
+npx opkg install gh@JeffreyPYL/agent-workflow
 ```
