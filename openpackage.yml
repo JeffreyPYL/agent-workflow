@@ -9,3 +9,5 @@ dependencies:
     url: https://github.com/mattpocock/skills.git#v1.2.3
   - name: ponytail
     url: https://github.com/DietrichGebert/ponytail.git#v4.9.0
+  - name: openspec
+    url: https://github.com/Fission-AI/openspec.git#v1.13.0
