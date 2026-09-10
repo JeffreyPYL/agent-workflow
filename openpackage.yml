@@ -1,0 +1,6 @@
+name: openpackage-skills
+version: 0.1.0
+description: Versioned agent skills, agents, and rules distributed via OpenPackage
+keywords: [skills, agents, rules, claude]
+author: dev.claude@jeffreyleung.com
+license: MIT
